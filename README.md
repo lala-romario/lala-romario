@@ -52,9 +52,9 @@ J'aime travailler sur des projets complexes, résoudre des problèmes techniques
 
 ## 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lala-romario\&show_icons=true\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME\&layout=compact\&theme=tokyonight\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lala-romario\&layout=compact\&theme=tokyonight\&hide_border=true)
 
 ---
 
@@ -66,7 +66,7 @@ J'aime travailler sur des projets complexes, résoudre des problèmes techniques
 
 ## 📈 Mon activité
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TON_USERNAME\&theme=tokyo-night\&hide_border=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lala-romario\&theme=tokyo-night\&hide_border=true)
 
 ---
 
