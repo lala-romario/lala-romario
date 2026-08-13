@@ -15,7 +15,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" alt="White-faced Scops Owl" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTBtZHR5cnB1cW4wM2J4Nmk2czhhMG83dHZ4NHQyendmbDNvcXY5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xFkgeu7dhfgqqxJqmj/giphy.gif" alt="White-faced Scops Owl" />
 </p>
 
 </div>
