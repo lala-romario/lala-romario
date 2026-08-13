@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, moi c'est Lala
 
-<!--
-**lala-romario/lala-romario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Développeur web
 
-Here are some ideas to get you started:
+### 🚀 Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- PHP
+- Magento 2
+- MySQL
+- Docker
+- Git
+- JavaScript
+- HTML / CSS
+
+### 📌 Projets
+
+- 🛒 Développement e-commerce avec Magento 2
+- 🐳 Environnements Docker
+- 🔧 Développement de modules Magento personnalisés
+
+### 📫 Me contacter
+
+- GitHub : ...
+- LinkedIn : ...
