@@ -60,7 +60,7 @@ J'aime travailler sur des projets complexes, résoudre des problèmes techniques
 
 ## 🔥 Activité GitHub
 
-![GitHub Streak](https://streak-stats.demolab.com?user=TON_USERNAME\&theme=tokyonight\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=lala-romario\&theme=tokyonight\&hide_border=true)
 
 ---
 
