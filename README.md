@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm **Mamonjy Lala Romario**
+# 👋 Hey, I'm **Lala Romario**
 
 ### 🇲🇬 Full-Stack Developer · PHP / Laravel · Vue.js · JavaScript
 
