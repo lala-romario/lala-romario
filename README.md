@@ -138,8 +138,6 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 </div>
 
----
-
 <div align="center">
 
 ### ⚡ Code · Create · Learn · Repeat
