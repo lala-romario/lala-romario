@@ -1,14 +1,16 @@
 <div align="center">
 
-# 👋 Mamonjy Lala Romario
+# 👋 Hey, I'm **Mamonjy Lala Romario**
 
-### 🇲🇬 Full-Stack Developer | PHP & Laravel ⚡ | Vue.js & JavaScript 🟢 | Docker 🐳 | Web Enthusiast 🚀
+### 🇲🇬 Full-Stack Developer · PHP / Laravel · Vue.js · JavaScript
 
-*Building web applications, learning new technologies and turning ideas into projects.*
+**🎓 Master I in Computer Science**
+**💻 Building web applications & exploring new technologies**
+**🐳 Docker · Linux · APIs · Magento 2**
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=lala-romario&label=Profile%20views&color=6366f1&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=lala-romario&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -16,7 +18,7 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding"/>
 
 </div>
 
@@ -24,38 +26,162 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Full-Stack Developer** from 🇲🇬 Madagascar, passionate about web development and software engineering.
+```yaml
+name: Mamonjy Lala Romario
+location: Madagascar 🇲🇬
+role: Full-Stack Developer
+education: Master I - Computer Science
 
-🎓 **Licence in Database and Software Engineering (BDGL)**
-💻 Focused on **PHP / Laravel and JavaScript / Vue.js**
-🐳 Interested in **Docker, Linux, APIs and backend architecture**
-🛒 Experience working with **Magento 2 & e-commerce environments**
-🧠 Always learning, experimenting and building new things
+focus:
+  - Backend Development
+  - Frontend Development
+  - REST APIs
+  - E-commerce
+  - DevOps
+
+currently_learning:
+  - Advanced Laravel
+  - Vue.js
+  - Docker
+  - Software Architecture
+```
+
+I'm a **Full-Stack Developer** passionate about building modern web applications and solving real-world problems through code.
+
+🎓 Currently pursuing a **Master I in Computer Science** after obtaining my **Licence in Database and Software Engineering (BDGL)**.
+
+💻 My main ecosystem revolves around **PHP, Laravel, JavaScript and Vue.js**.
+
+🐳 I also enjoy working with **Docker, Linux, Nginx, APIs, databases and deployment environments**.
+
+🛒 I've worked with **Magento 2 and e-commerce applications**, including complex backend environments.
 
 > **"Build it. Break it. Understand it. Improve it."** ⚡
 
 ---
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ro.mario.l.mmj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/romario-mamonjy-82542b310/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalaromariomamonjy@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lala-romario&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lala-romario&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lala-romario&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://komarev.com/ghpvc/?username=lala-romario&icon=2&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
 
 <div align="center">
 
-### ⚡ Code • Create • Learn • Repeat
+<a href="https://github.com/lala-romario">
+<img src="https://img.shields.io/badge/GitHub-lala--romario-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/romario-mamonjy-82542b310/">
+<img src="https://img.shields.io/badge/LinkedIn-Romario%20Mamonjy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:lalaromariomamonjy@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,react,vite" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=php,laravel,symfony,nodejs" />
+
+### 🗄️ Database & Search
+
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,postgresql,redis,elasticsearch" />
+
+### 🐳 DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,apache,git,github,gitlab,postman,npm" />
+
+### 🧩 Other Technologies
+
+<img src="https://skillicons.dev/icons?i=wordpress,bash,ffmpeg" />
+
+</div>
+
+---
+
+# 🚀 What I Like Building
+
+<div align="center">
+
+|   🌐 Web Apps  |    🔌 APIs   | 🛒 E-commerce |
+| :------------: | :----------: | :-----------: |
+| Vue.js · React |  REST · JWT  |   Magento 2   |
+|  Laravel · PHP | Axios · JSON |   WordPress   |
+
+|    🐳 DevOps   |    🗄️ Data   |   ⚡ Real-time  |
+| :------------: | :-----------: | :------------: |
+| Docker · Linux | MySQL · Redis |   WebSockets   |
+| Nginx · Apache | Elasticsearch | Laravel Reverb |
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=lala-romario&theme=nightowl&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lala-romario&theme=nightowl&hide_border=true&area=true" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+# 💭 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+
+</div>
+
+---
+
+# 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code · Create · Learn · Repeat
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=lala-romario&label=THANKS%20FOR%20VISITING&color=6366f1&style=flat" alt="Thanks for visiting"/>
 
 </div>
