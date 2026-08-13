@@ -36,170 +36,23 @@ I'm a **Full-Stack Developer** from 🇲🇬 Madagascar, passionate about web de
 
 ---
 
-## ⚙️ Tech Stack
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ro.mario.l.mmj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/romario-mamonjy-82542b310/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lalaromariomamonjy@gmail.com) 
 
-### 🎨 Frontend
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=lala-romario&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=lala-romario&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=lala-romario&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,react,vite" height="42"/>
-</p>
-
-### ⚡ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" height="42"/>
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis" height="42"/>
-</p>
-
-### 🐳 Tools & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman" height="42"/>
-</p>
-
-### 🛠️ Also Working With
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=wordpress,composer,npm" height="42"/>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+[![](https://komarev.com/ghpvc/?username=lala-romario&icon=2&color=6)](https://visitcount.itsvg.in)
 
-## 🚀 What I Build
-
-```text
-┌──────────────────────────────────────────┐
-│             WEB APPLICATIONS             │
-├──────────────────────────────────────────┤
-│                                          │
-│   Frontend          Backend              │
-│   ─────────         ───────              │
-│   Vue.js            Laravel              │
-│   React             PHP                  │
-│   TailwindCSS       REST API             │
-│                                          │
-│              ↓                           │
-│          Database                        │
-│          MySQL / Redis                   │
-│                                          │
-│              ↓                           │
-│       Docker / Linux                     │
-│                                          │
-└──────────────────────────────────────────┘
-```
-
----
-
-## 📌 Featured Projects
-
-### 📝 R-NOTES
-
-A full-stack note-taking application focused on a smooth and modern user experience.
-
-**Laravel • Vue.js • TailwindCSS • REST API • FFmpeg • MediaRecorder API**
-
----
-
-### 💰 Finance Tracker
-
-A web application designed to manage and track financial data.
-
-**PHP • React • MySQL • REST API**
-
----
-
-### 🐦 MyApp
-
-A social-media inspired web application built with Laravel and Blade.
-
-**Laravel • PHP • Blade • MySQL**
-
----
-
-### 🌐 Personal Portfolio
-
-A modern developer portfolio built with Vue.js and TailwindCSS.
-
-**Vue.js • Vite • TailwindCSS**
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api?username=lala-romario&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lala-romario&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=lala-romario&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/lala-romario">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lala-romario&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-
-</a>
-
-</div>
-
----
-
-## 🌐 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/lala-romario">
-  <img src="https://img.shields.io/badge/GitHub-lala--romario-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-📩 **Open to opportunities, collaborations and interesting projects.**
-
-</div>
-
----
-
-## 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
-</picture>
-
-</div>
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <div align="center">
 
