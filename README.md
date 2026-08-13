@@ -39,11 +39,6 @@ focus:
   - E-commerce
   - DevOps
 
-currently_learning:
-  - Advanced Laravel
-  - Vue.js
-  - Docker
-  - Software Architecture
 ```
 
 I'm a **Full-Stack Developer** passionate about building modern web applications and solving real-world problems through code.
@@ -108,35 +103,23 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ---
 
-# 🚀 What I Like Building
-
-<div align="center">
-
-|   🌐 Web Apps  |    🔌 APIs   | 🛒 E-commerce |
-| :------------: | :----------: | :-----------: |
-| Vue.js · React |  REST · JWT  |   Magento 2   |
-|  Laravel · PHP | Axios · JSON |   WordPress   |
-
-|    🐳 DevOps   |    🗄️ Data   |   ⚡ Real-time  |
-| :------------: | :-----------: | :------------: |
-| Docker · Linux | MySQL · Redis |   WebSockets   |
-| Nginx · Apache | Elasticsearch | Laravel Reverb |
-
-</div>
-
----
-
 # 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.shion.dev/api?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 
-<br><br>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=lala-romario&theme=nightowl&hide_border=true" />
+<div align="center">
+  
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=lala-romario&theme=nightowl&hide_border=true" />
 
 </div>
 
