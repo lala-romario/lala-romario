@@ -107,13 +107,13 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="170"/>
+<img src="https://github-readme-stats.shion.dev/api?username=lala-romario&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
 
 </div>
 
