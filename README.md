@@ -8,10 +8,6 @@
 **💻 Building web applications & exploring new technologies**
 **🐳 Docker · Linux · APIs · Magento 2**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=lala-romario&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
-
 </div>
 
 ---
@@ -150,6 +146,6 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=lala-romario&label=THANKS%20FOR%20VISITING&color=6366f1&style=flat" alt="Thanks for visiting"/>
+<img src="https://komarev.com/ghpvc/?username=lala-romario&label=PROFILE%20VIEWS&color=6366f1&style=for-the-badge" alt="Profile Views"/>
 
 </div>
