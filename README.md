@@ -1,175 +1,208 @@
-# 👋 Salut, moi c'est Lala Romario!
+<div align="center">
 
-💻 **Développeur Web | PHP • Magento 2 • Docker • MySQL**
+# 👋 Mamonjy Lala Romario
 
-Je développe des applications web et des solutions e-commerce, avec une spécialisation dans l'écosystème **PHP / Magento 2**.
+### 🇲🇬 Full-Stack Developer | PHP & Laravel ⚡ | Vue.js & JavaScript 🟢 | Docker 🐳 | Web Enthusiast 🚀
 
-J'aime travailler sur des projets complexes, résoudre des problèmes techniques et améliorer progressivement la qualité, les performances et la maintenabilité du code.
+*Building web applications, learning new technologies and turning ideas into projects.*
 
----
+<br>
 
-## 🚀 À propos de moi
+<img src="https://komarev.com/ghpvc/?username=lala-romario&label=Profile%20views&color=6366f1&style=flat" alt="Profile views"/>
 
-* 🔭 Je travaille principalement sur des projets **Magento 2**
-* 🧩 Développement de **modules Magento personnalisés**
-* 🐘 Développement backend avec **PHP**
-* 🗄️ Gestion et optimisation de bases de données **MySQL**
-* 🐳 Environnements de développement avec **Docker**
-* 🌱 J'améliore continuellement mes compétences en architecture et développement web
-* ⚡ J'aime comprendre comment les choses fonctionnent plutôt que simplement appliquer une solution
+</div>
 
 ---
 
-## 🛠️ Technologies & outils
+<div align="center">
 
-### Backend
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding"/>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Magento](https://img.shields.io/badge/Magento-EE4B2B?style=for-the-badge\&logo=magento\&logoColor=white)
-
-### Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
-### Base de données
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-
-### DevOps / Environnement
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-### Outils
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+</div>
 
 ---
 
-## 📊 Statistiques GitHub
+## 🧑‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lala-romario\&show_icons=true\&theme=tokyonight\&hide_border=true)
+I'm a **Full-Stack Developer** from 🇲🇬 Madagascar, passionate about web development and software engineering.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lala-romario\&layout=compact\&theme=tokyonight\&hide_border=true)
+🎓 **Licence in Database and Software Engineering (BDGL)**
+💻 Focused on **PHP / Laravel and JavaScript / Vue.js**
+🐳 Interested in **Docker, Linux, APIs and backend architecture**
+🛒 Experience working with **Magento 2 & e-commerce environments**
+🧠 Always learning, experimenting and building new things
 
----
-
-## 🔥 Activité GitHub
-
-![GitHub Streak](https://streak-stats.demolab.com?user=lala-romario\&theme=tokyonight\&hide_border=true)
-
----
-
-## 📈 Mon activité
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lala-romario\&theme=tokyo-night\&hide_border=true)
+> **"Build it. Break it. Understand it. Improve it."** ⚡
 
 ---
 
-## 💼 Domaines d'expertise
+## ⚙️ Tech Stack
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,vue,react,vite" height="42"/>
+</p>
+
+### ⚡ Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" height="42"/>
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,redis" height="42"/>
+</p>
+
+### 🐳 Tools & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,nginx,postman" height="42"/>
+</p>
+
+### 🛠️ Also Working With
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress,composer,npm" height="42"/>
+</p>
+
+---
+
+## 🚀 What I Build
 
 ```text
-Magento 2
-├── Modules personnalisés
-├── Collections produits
-├── EAV / Attributs
-├── Plugins / Observers
-├── Blocks / ViewModels
-├── Layout XML
-├── Templates PHTML
-├── Administration
-├── Import / Export
-└── Optimisation des performances
-
-PHP
-├── POO
-├── Architecture
-├── API
-├── Symfony Components
-└── Console Commands
-
-Infrastructure
-├── Docker
-├── MySQL
-├── Redis
-├── Elasticsearch
-├── Nginx
-└── Linux
+┌──────────────────────────────────────────┐
+│             WEB APPLICATIONS             │
+├──────────────────────────────────────────┤
+│                                          │
+│   Frontend          Backend              │
+│   ─────────         ───────              │
+│   Vue.js            Laravel              │
+│   React             PHP                  │
+│   TailwindCSS       REST API             │
+│                                          │
+│              ↓                           │
+│          Database                        │
+│          MySQL / Redis                   │
+│                                          │
+│              ↓                           │
+│       Docker / Linux                     │
+│                                          │
+└──────────────────────────────────────────┘
 ```
 
 ---
 
-## 🚀 Projets
+## 📌 Featured Projects
 
-### 🛒 E-commerce Magento 2
+### 📝 R-NOTES
 
-Développement et maintenance de plateformes e-commerce basées sur Magento 2.
+A full-stack note-taking application focused on a smooth and modern user experience.
 
-**Technologies :**
-
-`PHP` `Magento 2` `MySQL` `JavaScript` `Docker`
+**Laravel • Vue.js • TailwindCSS • REST API • FFmpeg • MediaRecorder API**
 
 ---
 
-### ⚙️ Modules Magento personnalisés
+### 💰 Finance Tracker
 
-Développement de fonctionnalités spécifiques :
+A web application designed to manage and track financial data.
 
-* filtres produits avancés
-* import de catalogues
-* gestion d'attributs
-* intégrations externes
-* commandes CLI
-* personnalisation du checkout
-* optimisation des collections produits
+**PHP • React • MySQL • REST API**
 
 ---
 
-### 🐳 Environnements Docker
+### 🐦 MyApp
 
-Mise en place et maintenance d'environnements de développement comprenant notamment :
+A social-media inspired web application built with Laravel and Blade.
 
-`PHP` `MySQL` `Nginx` `Redis` `Elasticsearch` `Docker`
-
----
-
-## 🧠 Ce que j'aime résoudre
-
-> "Un problème complexe devient beaucoup plus simple lorsqu'on comprend réellement ce qui se passe derrière."
-
-Je m'intéresse particulièrement à :
-
-* 🔍 Debugging
-* ⚡ Performance
-* 🧱 Architecture logicielle
-* 🗄️ Optimisation SQL
-* 🛒 E-commerce
-* 🔧 Refactoring
-* 🐳 Docker
-* 🔄 Git & workflows collaboratifs
+**Laravel • PHP • Blade • MySQL**
 
 ---
 
-## 📫 Me contacter
+### 🌐 Personal Portfolio
 
-<p align="center">
+A modern developer portfolio built with Vue.js and TailwindCSS.
+
+**Vue.js • Vite • TailwindCSS**
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=lala-romario&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lala-romario&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=lala-romario&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
 
 <a href="https://github.com/lala-romario">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lala-romario&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
+
 </a>
 
-<a href="[https://linkedin.com/in/TON_LINKEDIN](https://mg.linkedin.com/in/romario-mamonjy-82542b310)">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Thanks for visiting my profile! 🚀</i>
-</p>
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/lala-romario">
+  <img src="https://img.shields.io/badge/GitHub-lala--romario-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+📩 **Open to opportunities, collaborations and interesting projects.**
+
+</div>
+
+---
+
+## 🐍 My Contributions
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code • Create • Learn • Repeat
+
+</div>
