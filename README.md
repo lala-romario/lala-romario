@@ -135,7 +135,6 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ---
 
-# 💭 Random Dev Quote
 
 <div align="center">
 
