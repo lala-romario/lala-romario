@@ -144,20 +144,6 @@ I'm a **Full-Stack Developer** passionate about building modern web applications
 
 ---
 
-# 🐍 My Contributions
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/lala-romario/lala-romario/output/github-snake.svg">
-</picture>
-
-</div>
-
----
-
 <div align="center">
 
 ### ⚡ Code · Create · Learn · Repeat
