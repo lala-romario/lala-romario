@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm **Lala Romario**
 
-### 🇲🇬 Full-Stack Developer · PHP / Laravel · Vue.js · JavaScript
+### 🇲🇬 Full-Stack Developer · PHP / Laravel · Vue.js
 
 **🎓 Master I in Computer Science**
 **💻 Building web applications & exploring new technologies**
